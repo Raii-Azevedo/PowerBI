@@ -3,6 +3,8 @@ Evolução do curso de Microsoft Power BI
 
 ## O Curso
 - O curso conta com técnicas de modelagem do básico ao avançado. Com um passo a passo e como manipular a ferramnta Power BI.
+- The course features basic to advanced modeling techniques. With a step by step and how to manipulate the Power BI tool.
+
 
 ## Download
 ![Tutorial]()
